@@ -13,3 +13,6 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose -y
 sudo usermod -aG docker $USER
+
+## Запуск файлу інструкцій для створення необхідних контейнерів
+docker-compose -f docker-compose-serverB.yaml up -d
