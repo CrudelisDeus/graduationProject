@@ -25,4 +25,3 @@ All scripts that are used on the server are located in the server directories se
 ## Idea visualization
 
 <img src="README/viz.jpg" alt="viz" style="height: 600px; width:648x;"/>
-
